@@ -1,6 +1,6 @@
-# Liftwithsultan
+ Liftwithsultan
 
-## Table of Contents
+ Table of Contents
 
 - [Overview](#overview)
   - [Built With](#built-with)
@@ -9,25 +9,25 @@
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
-## Overview
+ -Overview
 
 Liftwithsultan is a beginner-friendly fitness website built as my UX/UI capstone project. Most fitness content online is either too basic (stretching only) or assumes you already have gym experience — this project bridges that gap with a clear, structured entry point for someone who has never lifted before.
 
-![Liftwithsultan homepage](./assets/screenshot.png)
+![Liftwithsultan landingpage](./assets/landingpage.png)
 
 - **Where can I see your demo?** *Add your live GitHub Pages / Netlify link here once deployed.*
 - **What was your experience?** This was my first time taking a project from wireframes and a style guide in Figma through to a working front end — including designing a small design system (colors, type, spacing) and carrying it consistently across four pages.
 - **What have you learned/improved?** How to structure a multi-page site with shared CSS, build accessible forms with client-side validation, and keep a consistent visual identity across a hero, a filtered card grid, and auth pages.
 - **Your wisdom?** Start with the wireframe and lock the design tokens (colors, spacing, type) early — it makes every section after the first one much faster to build.
 
-### Built With
+ -Built With
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Figma](https://www.figma.com/) — wireframes, user journey map, and style guide
 
-## Features
+ -Features
 
 **Navbar** — Sticky header with logo, section links, and a "Get Started" call to action
 
@@ -54,31 +54,29 @@ Liftwithsultan is a beginner-friendly fitness website built as my UX/UI capstone
 
 **Footer Section** — Site-wide footer with brand sign-off
 
-## How to Use
+ -How to Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com/) and a text editor — [VS Code](https://code.visualstudio.com/) is highly recommended. Head to the links above to download for your operating system.
 
 ```
-# Clone this repository
-$ git clone https://github.com/your-username/liftwithsultan.git
+ Clone this repository
+- git clone https://github.com/your-username/liftwithsultan.git
 
-# Change directory into your project
-$ cd liftwithsultan
+ Change directory into your project
+- cd liftwithsultan
 
-# Open with VS Code from your terminal
-$ code .
+ Open with VS Code from your terminal
+- code .
 ```
 
 Once open, run `index.html` with the **Live Server** extension in VS Code — no build step or dependencies required.
 
-## Acknowledgements
+- Acknowledgements
 
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 - [How to Write a Good README](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 - [Google Fonts](https://fonts.google.com/) — Bebas Neue & Inter
 
-## Contact
+- Contact
 
-- Website: [your-website.com](https://your-website.com/)
-- GitHub: [@your-username](https://github.com/your-username)
-- Twitter: [@your-twitter](https://twitter.com/your-username)
+- what's app: 07012722266
