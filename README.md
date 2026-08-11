@@ -13,7 +13,7 @@
 
 Liftwithsultan is a beginner-friendly fitness website built as my UX/UI capstone project. Most fitness content online is either too basic (stretching only) or assumes you already have gym experience — this project bridges that gap with a clear, structured entry point for someone who has never lifted before.
 
-![Liftwithsultan landingpage](./assets/landingpage.png)
+!landingpage](./assets/landingpage.png)
 
 - **Where can I see your demo?** *Add your live GitHub Pages / Netlify link here once deployed.*
 - **What was your experience?** This was my first time taking a project from wireframes and a style guide in Figma through to a working front end — including designing a small design system (colors, type, spacing) and carrying it consistently across four pages.
